@@ -3,11 +3,11 @@ site_name: Understanding India
 copyright: '© Understanding India'
 site_description: Understanding India - The content and newsletter for macro and nuanced understanding of socio political aspects of India.
 site_author: Understanding India
-site_url: https://understandingindia.github.io
+site_url: https://understandingindia.github.io/site
 
 # Repository
 repo_name: Understanding India
-repo_url: https://github.com/understandingindia/understandingindia.github.io
+repo_url: https://github.com/understandingindia/site
 edit_uri: blob/master/docs/
 
 
