@@ -8,7 +8,7 @@ site_url: https://understandingindia.github.io/site
 # Repository
 repo_name: Understanding India
 repo_url: https://github.com/understandingindia/site
-edit_uri: blob/master/docs/
+# edit_uri: blob/master/docs/
 
 
 extra_css:
