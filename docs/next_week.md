@@ -12,7 +12,7 @@
 
 - **Contribute to a developing story**
     - Look for open pull requests and add your comments to the discussion.
-        - Pick an existing file from [HERE](https://github.com/understandingindia/site/tree/master/next_week)
+        - Pick an existing file from [HERE](https://github.com/understandingindia/site/tree/master/next_week_drafts)
         - Contribute to discussion of [Open PRs](https://github.com/understandingindia/site/pulls)
 
 - **Create your own story**
