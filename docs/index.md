@@ -44,7 +44,7 @@ The content and newsletter initiative for macro and nuanced understanding of soc
 <!-- =========================================================================================== -->
 
 <hr/>
-:exclamation: **Read: [This Week's Latest](this_week)**
+:arrows_clockwise: **Read: [This Week's Latest](this_week)**
 
 <!-- =========================================================================================== -->
 
@@ -80,7 +80,7 @@ more opinions, diverse point of views and further better understanding.
 <hr/>
 ## More
 
-- :exclamation: [This Week](this_week)
+- :in: [This Week](this_week)
 
 - :fast_forward: [Contribute to Next Week](next_week)
 
