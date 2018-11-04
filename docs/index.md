@@ -41,6 +41,9 @@ The content and newsletter initiative for macro and nuanced understanding of soc
     </h4>
 </div>
 
+<!-- =========================================================================================== -->
+
+<hr/>
 :exclamation: **Read: [This Week's Latest](this_week)**
 
 <!-- =========================================================================================== -->
