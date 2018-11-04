@@ -41,6 +41,8 @@ The content and newsletter initiative for macro and nuanced understanding of soc
     </h4>
 </div>
 
+Read: [This Week's Latest](this_week)
+
 <!-- =========================================================================================== -->
 
 <hr/>
@@ -76,7 +78,10 @@ more opinions, diverse point of views and further better understanding.
 
 - [This Week](this_week)
 - [Contribute to Next Week](next_week)
-- [Archive](#)
+
+<!-- #ToDo #WeeklyReleaseUpdate To be updated, every weekly release: point to latest archive page -->
+- [Archive](archive/2018/october/oct22_oct28/)
+
 - Github: [@understandingindia](https://github.com/understandingindia)
 - Repository: [understandingindia/site](https://github.com/understandingindia/site)
 - Contact - email: undindia@gmail.com
