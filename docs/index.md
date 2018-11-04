@@ -1,12 +1,12 @@
-# Understanding India
+# <img src="img/favicon.ico" alt="Smiley face" align="middle"> Understanding India
 
 The content and newsletter initiative for macro and nuanced understanding of socio political aspects of India.
 
-<hr/>
-
 <!-- =========================================================================================== -->
 
-<h3>Sign Up for Weekly News Letter</h3>
+<hr/>
+
+## Sign Up for Weekly News Letter
 
 <div id="SubPage_failed" style="display: none;">
     <h4>
@@ -43,13 +43,56 @@ The content and newsletter initiative for macro and nuanced understanding of soc
 
 <!-- =========================================================================================== -->
 
-<br/>
+<hr/>
+## Initiative
+
+- To provide critical content that caters to the understanding of India, its Geo-Political, Social,
+Economic and Demographic change & impact at a macro level with nuance.
+
+- To elevate from stories with a narrow perspective and see where the bigger changes fit in for a
+country that is going through transformation at a pace like never before, We need better content
+to reach more people and build better prespectives.
+
+- More often than not the trending/popular stories divert the attention and understanding from
+changes happening that are slowly and steadily transforming the economy and society. We intend
+to cater that content and build a more informed perspective.
+
+<!-- =========================================================================================== -->
+
+<hr/>
+## Collaboration & Crowd-Sourcing
+
+- We need more and more people to collaborate on and curate stories for the next week to incorporate
+more opinions, diverse point of views and further better understanding.
+
+- [Details on Contribution & Collaboration](next_week/#collaborate-and-contribute)
+- [Content Guidelines](next_week/#content-guidelines)
+- [Contribute via a Pull Request](next_week/#pull-request-guide)
+
+<!-- =========================================================================================== -->
+
+<hr/>
+## More
+
+- [This Week](this_week)
+- [Contribute to Next Week](next_week)
+- [Archive](#)
+- Github: [@understandingindia](https://github.com/understandingindia)
+- Repository: [understandingindia/site](https://github.com/understandingindia/site)
+- Contact - email: undindia@gmail.com
+
+<!-- =========================================================================================== -->
+
+<hr/>
+
 <i class="fas fa-globe-asia fa-lg"></i>
 <i class="fas fa-rupee-sign fa-lg"></i>
 <i class="fab fa-github-alt fa-lg"></i>
 <i class="fas fa-code fa-lg"></i>
 
-[^1]: Last Updated: `2018-11-03`
+<!-- =========================================================================================== -->
+
+[^*]: Last Updated: `2018/11`
 
 <!-- =========================================================================================== -->
 

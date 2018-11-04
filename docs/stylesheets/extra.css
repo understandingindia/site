@@ -1,127 +1,31 @@
-img[src$="centerme"] {
-    display:block;
+img[src$="titleimg"] {
     margin: 0 auto;
-}
-
-.textLink {
-    color: white !important;
-    background: black;
-}
-
-.textLink :hover {
-    color: #3f51b5 !important;
-}
-
-.minText {
-    font-size: 85%;
-}
-
-.pText {
-    font-size: 1.5rem;
-}
-
-.tags {
-    background-color: hsla(0,0%,93%,.5);
-    color: #37474f;
-    font-size: 85%;
-    direction: ltr;
-}
-.boximg1 {
     display: inline-block;
     max-width: 50%;
     text-align: center;
-    vertical-align: middle;
 }
 
-.boximgthumb {
+.titleimg {
+    margin: 0 auto;
     display: inline-block;
-    max-width: 15%;
-    text-align: left;
-    vertical-align: middle;
-}
-
-.boxtxt2 {
-    display: inline-block;
-    max-width: 80%;
-    text-align: left;
-    vertical-align: middle;
-}
-
-.boxtxt1 {
-    display: inline-block;
-    max-width: 40%;
-    text-align: left;
-    vertical-align: middle;
-}
-
-.box1 {
-    display: inline-block;
-    max-width: 55%;
-    margin: 1em;
-    vertical-align: top;
-  }
-
-.box2 {
-    display: inline-block;
-    max-width: 45%;
-    margin: 1em;
+    max-width: 50%;
     text-align: center;
 }
 
-.profLogo {
-    max-width: 20%;
-    margin-top: -10px;
-    margin-bottom: -10px;
-}
-
-.imgc {
-    border-radius: 50%;
-}
-
 @media screen and (max-width: 768px) {
-    .box1 {
-        display: block;
-        width: 100%;
-        margin: 0em;
-        max-width: 100%;
-        text-align: center;
-      }
-    
-    .box2 {
-        display: block;
-        width: 100%;
-        max-width: 100%;
-        margin: 0em;
-        margin-top: 1em;
-        text-align: center;
-    }
-
-    .boximg1 {
+    img[src$="titleimg"] {
+        margin: 0 auto;
         display: inline-block;
         max-width: 100%;
         text-align: center;
-        vertical-align: middle;
     }
-
-    .boxtxt1 {
-        display: block;
+    .titleimg {
+        margin: 0 auto;
+        display: inline-block;
         max-width: 100%;
-        text-align: left;
-    }
-
-    .boximgthumb {
-        max-width: 25%;
-    }
-
-    .boxtxt2 {
-        max-width: 70%;
+        text-align: center;
     }
 }
 
 @media (max-width: 576px) {
-    .profLogo {
-        max-width: 30%;
-        margin-top: -10px;
-        margin-bottom: -10px;
-    }
 }
