@@ -31,3 +31,7 @@ If you are going to use a passage of Lorem Ipsum, you need to be sure there isn'
 
 
 :link: https://www.economist.com/leaders/2018/07/05/why-india-needs-women-to-work
+
+<!-- =========================================================================================== -->
+
+[^*]: Last Updated: `2018/11`

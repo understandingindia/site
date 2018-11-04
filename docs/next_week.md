@@ -60,3 +60,7 @@ Contribute to discussion of an [Open PR](https://github.com/understandingindia/c
 
     This is a detailed description.
     ```
+
+<!-- =========================================================================================== -->
+
+[^*]: Last Updated: `2018/11`
