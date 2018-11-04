@@ -3,17 +3,17 @@
 
 ## :newspaper: Collaborate and Contribute
 
+- :star: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
+
 - We have a bunch of stories we are working on for the next week.
 
-- Repository: [understandingindia/site](https://github.com/understandingindia/site)
-
 - The **drafts** for the stories for next week are
-[HERE](https://github.com/understandingindia/site/tree/master/next_week_drafts) `next_week_drafts/`
+[HERE](https://github.com/understandingindia/collaborate/tree/master/next_week_drafts) `next_week_drafts/`
 
 - **Contribute to a developing story**
     - Look for open pull requests and add your comments to the discussion.
-        - Pick an existing file from [HERE](https://github.com/understandingindia/site/tree/master/next_week_drafts)
-        - Contribute to discussion of [Open PRs](https://github.com/understandingindia/site/pulls)
+        - Pick an existing file from [HERE](https://github.com/understandingindia/collaborate/tree/master/next_week_drafts)
+        - Contribute to discussion of [Open PRs](https://github.com/understandingindia/collaborate/pulls)
 
 - **Create your own story**
     - Open a new pull request.
@@ -33,14 +33,14 @@
 ## :clipboard: Pull Request Guide
 
 - The **drafts** for the stories for next week are
-[HERE](https://github.com/understandingindia/site/tree/master/next_week_drafts) `next_week_drafts/`
+[HERE](https://github.com/understandingindia/collaborate/tree/master/next_week_drafts) `next_week_drafts/`
 ```
 next_week_drafts
 └── sample-story-title.md
 ```
 
-- Pick an **existing file or story** from [HERE](https://github.com/understandingindia/site/tree/master/next_week_drafts) or
-Contribute to discussion of an [Open PR](https://github.com/understandingindia/site/pulls)
+- Pick an **existing file or story** from [HERE](https://github.com/understandingindia/collaborate/tree/master/next_week_drafts) or
+Contribute to discussion of an [Open PR](https://github.com/understandingindia/collaborate/pulls)
 
 - For **a new story** create a new file under this location `next_week_drafts/` and open a PR
     - The file name should include the title of the story eg: `sample-story-title.md`

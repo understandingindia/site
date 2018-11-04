@@ -41,7 +41,7 @@ The content and newsletter initiative for macro and nuanced understanding of soc
     </h4>
 </div>
 
-Read: [This Week's Latest](this_week)
+:exclamation: **Read: [This Week's Latest](this_week)**
 
 <!-- =========================================================================================== -->
 
@@ -76,15 +76,18 @@ more opinions, diverse point of views and further better understanding.
 <hr/>
 ## More
 
-- [This Week](this_week)
-- [Contribute to Next Week](next_week)
+- :exclamation: [This Week](this_week)
+
+- :fast_forward: [Contribute to Next Week](next_week)
 
 <!-- #ToDo #WeeklyReleaseUpdate To be updated, every weekly release: point to latest archive page -->
-- [Archive](archive/2018/october/oct22_oct28/)
+- :rewind: [Archive](archive/2018/october/oct22_oct28/)
 
-- Github: [@understandingindia](https://github.com/understandingindia)
-- Repository: [understandingindia/site](https://github.com/understandingindia/site)
-- Contact - email: undindia@gmail.com
+- :floppy_disk: Github: [@understandingindia](https://github.com/understandingindia)
+
+- :star: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
+
+- :mailbox: Contact - email: undindia@gmail.com
 
 <!-- =========================================================================================== -->
 
