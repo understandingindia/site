@@ -3,7 +3,7 @@
 
 ## :newspaper: Collaborate and Contribute
 
-- :star: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
+- :star2: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
 
 - We have a bunch of stories we are working on for the next week.
 

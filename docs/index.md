@@ -64,9 +64,10 @@ to cater that content and build a more informed perspective.
 <hr/>
 ## Collaboration & Crowd-Sourcing
 
-- We need more and more people to collaborate on and curate stories for the next week to incorporate
+- We need more people to collaborate on and curate stories for the next week to incorporate
 more opinions, diverse point of views and further better understanding.
 
+- :star2: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
 - [Details on Contribution & Collaboration](next_week/#collaborate-and-contribute)
 - [Content Guidelines](next_week/#content-guidelines)
 - [Contribute via a Pull Request](next_week/#pull-request-guide)
@@ -83,9 +84,7 @@ more opinions, diverse point of views and further better understanding.
 <!-- #ToDo #WeeklyReleaseUpdate To be updated, every weekly release: point to latest archive page -->
 - :rewind: [Archive](archive/2018/october/oct22_oct28/)
 
-- :floppy_disk: Github: [@understandingindia](https://github.com/understandingindia)
-
-- :star: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
+- :star2: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
 
 - :mailbox: Contact - email: undindia@gmail.com
 
