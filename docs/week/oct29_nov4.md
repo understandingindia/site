@@ -1,6 +1,8 @@
 # 2018 Oct 29 - Nov 4
 
----
+
+
+****************************************************************************************************
 
 ### :arrows_clockwise: Revitalising India's Government Schools
 
@@ -33,7 +35,9 @@ Annual Stae of Education Report: http://img.asercentre.org/docs/Publications/ASE
 
 :link: https://www.theguardian.com/global-development/2018/oct/26/india-state-schools-revitalised-training-scheme-for-headteachers
 
----
+
+
+****************************************************************************************************
 
 ### :arrows_clockwise: The missing 235m, How Indian Women can transform Indian Economy
 
@@ -65,7 +69,9 @@ Per reports, as households become richer, they prefer women to stop working outs
 
 :link: https://www.economist.com/leaders/2018/07/05/why-india-needs-women-to-work
 
----
+
+
+****************************************************************************************************
 
 ### :arrows_clockwise: India's love affair with gold and its implications
 
