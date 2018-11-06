@@ -70,6 +70,7 @@ to cater that content and build a more informed perspective.
 - We need more people to collaborate on and curate stories for the next week to incorporate
 more opinions, diverse point of views and further better understanding.
 
+- :chart_with_upwards_trend: Google Form Entry: https://goo.gl/forms/sJ4St7symtAuD16S2
 - :star2: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
 - [Details on Contribution & Collaboration](next_week/#collaborate-and-contribute)
 - [Content Guidelines](next_week/#content-guidelines)

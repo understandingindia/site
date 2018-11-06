@@ -3,7 +3,9 @@
 
 ## :newspaper: Collaborate and Contribute
 
-- :star2: Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
+- :star2: Github Repository: [understandingindia/collaborate](https://github.com/understandingindia/collaborate)
+
+- :chart_with_upwards_trend: Google Form: https://goo.gl/forms/sJ4St7symtAuD16S2
 
 - We have a bunch of stories we are working on for the next week.
 
@@ -63,7 +65,11 @@ Contribute to discussion of an [Open PR](https://github.com/understandingindia/c
     ## Link
     https://link_to_content
     ```
+## :chart_with_upwards_trend: Contribute via Google Forms Entry
 
+If you prefer simply putting in an entry via google forms, use this link
+
+:link: https://goo.gl/forms/sJ4St7symtAuD16S2
 <!-- =========================================================================================== -->
 
 [^*]: Last Updated: `2018/11`
